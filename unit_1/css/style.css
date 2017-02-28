@@ -1,0 +1,15 @@
+body {
+  background-color: #c4efe9;
+}
+
+h1 {
+ color: brown;
+}
+
+#submitbutton {
+  color: blue;
+}
+
+#submitbutton:hover {
+  outline: 2px solid red;
+}
