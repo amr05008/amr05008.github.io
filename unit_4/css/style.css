@@ -2,6 +2,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
   background-color: #FFFDF7;
+  max-width: 1200px;
   line-height: 1.4em;
   margin: 2em
 }
@@ -38,15 +39,15 @@ ul {
 .hero {
   margin: 2px;
   border: 2px solid black;
-  max-width: 1200px;
   height: 450px;
   background-image: url("http://www.drodd.com/images15/sunset21.jpg");
   background-repeat: no-repeat;
   background-position: center;
   color: #FBFEF9;
-  padding-top: 200px;
+  padding-top: 100px;
   padding-left: 30px;
   padding-right: 30px;
+  padding-bottom: 100px;
 }
 
 .hero:hover {
