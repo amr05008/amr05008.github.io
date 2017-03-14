@@ -1,0 +1,88 @@
+/*unit 4 CSS*/
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #FFFDF7;
+  line-height: 1.5em;
+  margin: 2em
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  max-width: 1200px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Crete Round', serif;
+  font-weight: bold;
+  color: #2CA58D;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3.5em;
+  line-height: 1.2em;
+}
+
+h2 {
+  font-size: 2.5em;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+  font-size: 1.4em;
+  line-height: 1.5em;
+}
+
+.hero {
+  margin: 2px;
+  border: 2px solid black;
+  max-width: 1200px;
+  height: 450px;
+  background-image: url("http://www.drodd.com/images15/sunset21.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #FBFEF9;
+  padding-top: 200px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.hero:hover {
+  background-image: url("https://previews.123rf.com/images/william87/william871201/william87120100106/11841149-Thumbs-Up-on-White-Background-Stock-Photo-teamwork.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #000004;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+#slogan {
+  text-align: center;
+  font-style: italic;
+  font-size: 1.5em;
+  font-weight: 400;
+  color: #0A2342;
+}
+
+#description:hover {
+    background-repeat: no-repeat;
+    text-transform: uppercase;
+    text-decoration: line-through;
+}
+
+/*#contact:hover {
+  outline: 20px solid orange;
+}*/
+
+#submitbutton {
+  background-color: orange;
+  color: white;
+}
+
+/*#submitbutton:hover {
+  outline: 2px solid brown;
+}*/
