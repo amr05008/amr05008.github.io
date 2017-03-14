@@ -46,6 +46,7 @@ ul {
   background-repeat: no-repeat;
   background-position: center;
   color: #FBFEF9;
+  text-align: center;
   padding-top: 100px;
   padding-left: 30px;
   padding-right: 30px;
@@ -58,9 +59,14 @@ ul {
   background-position: center;
   background-size: cover;
   color: #000004;
+  text-align: center;
   text-transform: uppercase;
   padding-left: 15px;
   padding-right: 15px;
+}
+
+.contact {
+  text-align: center;
 }
 
 #slogan {
