@@ -2,7 +2,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
   background-color: #FFFDF7;
-  line-height: 1.5em;
+  line-height: 1.4em;
   margin: 2em
 }
 
@@ -14,6 +14,7 @@ p {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Crete Round', serif;
   font-weight: bold;
+  line-height: 1.4em;
   color: #2CA58D;
   text-align: center;
 }
