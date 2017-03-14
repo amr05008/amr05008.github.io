@@ -55,10 +55,9 @@ ul {
   background-position: center;
   background-size: cover;
   color: #000004;
-  font-size: 1.5em;
   text-transform: uppercase;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 #slogan {
