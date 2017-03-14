@@ -1,0 +1,69 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #FFFDF7;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 38px;
+  font-weight: bold;
+  color: #2CA58D;
+  text-align: center;
+}
+
+#slogan {
+  text-align: center;
+  font-style: italic;
+  font-size: 28px;
+  font-weight: 400;
+  color: #0A2342;
+}
+
+.hero {
+  margin: 2px;
+  border: 2px solid black;
+  width: 1200px;
+  height: 450px;
+  background-image: url("http://www.drodd.com/images15/sunset21.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #FBFEF9;
+  padding-top: 200px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.hero:hover {
+  background-image: url("https://previews.123rf.com/images/william87/william871201/william87120100106/11841149-Thumbs-Up-on-White-Background-Stock-Photo-teamwork.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #000004;
+  font-size: 24px;
+  text-transform: uppercase;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+#description:hover {
+    background-repeat: no-repeat;
+    text-transform: uppercase;
+    text-decoration: line-through;
+}
+
+ul {
+  text-align: left;
+  list-style-type: none;
+}
+
+#contact:hover {
+  outline: 20px solid orange;
+}
+
+#submitbutton {
+  color: blue;
+}
+
+#submitbutton:hover {
+  outline: 2px solid red;
+}
