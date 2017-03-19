@@ -1,0 +1,130 @@
+/*unit 4 CSS*/
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+section {
+  position: relative;
+  width: 100%;
+  padding: 6em 0;
+}
+
+time {
+  display: block;
+  padding: 1em 0 0 0;
+  border-top: 1px solid black;
+  text-align: center;
+  font-weight: bold;
+  margin: 1em 0 0 0;
+}
+
+header, footer {
+  background-color: #4169E1;
+  width: 100%;
+  color: #fff;
+  text-align: center;
+}
+
+h1, h2 {
+  font-family: 'Crete Round', serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #FDF5E6;
+  text-align: center;
+  text-shadow: 2px;
+  letter-spacing: .05em;
+  line-height: 1em;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+h2 {
+  font-size: 2.5em;
+  color:  #000000;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  line-height: 1.5em;
+}
+
+/*The following code is for the GA class, remove before unit 6
+ */
+header {
+  background-color: #FFED74;
+  border: 1px black solid;
+  padding: 20px;
+}
+
+nav {
+   background-color: #E8C66A;
+   border: 1px black solid;
+   padding: 20px;
+ }
+
+aside {
+   background-color: #FFC675;
+   border: 1px black solid;
+   padding: 20px;
+ }
+
+article {
+   background-color: #E89C6C;
+   border: 1px black solid;
+   padding: 20px;
+ }
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+  }
+
+section {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+  }
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 20px 20px 0 0;
+  text-align: right;
+}
+
+li {
+  display: inline;
+}
+
+/*This is end of code to remove*/
+
+.img-circle {
+border-radius: 50%;
+border: 2px white solid;
+}
+
+.bond {
+  background-color: #F5F5F5;
+}
+
+.content {
+  padding: 0em 2;
+  font-size: 1.2em;
+  line-height: 1.2em;
+  margin: 0 auto;
+}
+
+.gallery {
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px 0 0 0;
+}
+
+.contact {
+  text-align: center;
+  margin: 0 auto;
+}
