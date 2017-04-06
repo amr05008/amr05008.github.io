@@ -51,56 +51,13 @@ p {
   line-height: 1.5em;
 }
 
-/*The following code is for the GA class, remove before unit 6
- */
-header {
-  background-color: #FFED74;
-  border: 1px black solid;
-  padding: 20px;
-}
+/*nav {
+  float: right;
+}*/
 
-nav {
-   background-color: #E8C66A;
-   border: 1px black solid;
-   padding: 20px;
- }
-
-aside {
-   background-color: #FFC675;
-   border: 1px black solid;
-   padding: 20px;
- }
-
-article {
-   background-color: #E89C6C;
-   border: 1px black solid;
-   padding: 20px;
- }
-
-footer {
-    background-color: #FF957E;
-    border: 1px black solid;
-    padding: 20px;
-  }
-
-section {
-    background-color: #FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
-  }
-
-ul{
-  list-style-type: none;
-  margin: 0;
-  padding: 20px 20px 0 0;
-  text-align: right;
-}
-
-li {
-  display: inline;
-}
-
-/*This is end of code to remove*/
+/*.content {
+  float: left;
+}*/
 
 .img-circle {
 border-radius: 50%;
